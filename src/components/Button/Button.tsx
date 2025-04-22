@@ -29,7 +29,7 @@ const Button = ({
     primary: "bg-accent text-white hover:opacity-50",
     secondary: "bg-purple text-white hover:bg-gray-300",
     transparent:
-      "bg-transparent text-text-gray hover:text-dark",
+      "bg-transparent text-gray hover:text-dark",
   };
 
   const sizeStyles = {
